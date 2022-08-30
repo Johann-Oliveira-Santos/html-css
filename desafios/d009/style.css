@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(37, 35, 35);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+div, iframe {
+    width: 560px;
+    height: 350px;
+    margin: 0 auto;
+    background-color: #777;
+    border-radius: 20px;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
+
+a #voltar{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
